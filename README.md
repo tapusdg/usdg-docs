@@ -45,7 +45,7 @@ https://x.com/UsdMem
 Official Whitepaper:
 
 [Download Whitepaper] (./WHITEPAPER.pdf) 
-support@usdgdefi.com
+support_tap@usdgdefi.com
 
 ## Disclaimer
 
