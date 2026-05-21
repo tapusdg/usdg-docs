@@ -9,7 +9,7 @@ USDG is a multi-chain digital asset focused on transparent ecosystem development
 ## Documentation
 ## Documentation
 
-- [Whitepaper](./USDG_Whitepaper.pdf)
+- [Whitepaper](USDG_Whitepaper.pdf)
 - [Tokenomics](./TOKENOMICS.md)
 - [Roadmap](./ROADMAP.md)
 - [Security Audits](./AUDITS.md)
@@ -49,21 +49,9 @@ https://x.com/UsdMem
 
 Official Whitepaper:
 
-[Download Whitepaper] (./WHITEPAPER.pdf) 
+[Download Whitepaper] (USDG_Whitepaper.pdf) 
 support_tap@usdgdefi.com
 
 ## Disclaimer
-## Official Links
 
-Website:
-https://usdgdefi.com
-
-Telegram:
-https://t.me/usdggold
-
-X:
-https://x.com/UsdMem
-
-Support:
-support@usdgdefi.com
 Always verify contract addresses through official channels before interacting with USDG.
