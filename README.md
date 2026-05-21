@@ -13,24 +13,25 @@ USDG is a multi-chain digital asset focused on transparent ecosystem development
 - [Roadmap](./ROADMAP.md)
 - [Security Audits](./AUDITS.md)
 
-### Token Information
+## Token Information
 
 Token Name: USDG Gold
 
 Symbol: USDG
+
 Official Website:
 https://usdgdefi.com
 
 ### Supported Networks
 
-Ethereum (ERC20)
+### Ethereum (ERC20)
 0x3C89DF6C17Ca5c735498712d343387198e573383
 
-BNB Chain (BEP20)
-0x5b6d884174853f2c2d1a98b406c3b44f411d3cbc
+### BNB Smart Chain (BEP20)
+0x5b6D884174853f2c2D1A98b406c3b44F411D3cbC
 
-TRON (TRC20)
-TWdoRngam67skhdVtcCaHKaRD5bFRls26S
+### TRON (TRC20)
+TWdoRngam67skhdVtcCaHKaRD5bFRLs26S
 
 ## Official Links
 
