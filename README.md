@@ -9,10 +9,10 @@ USDG is a multi-chain digital asset focused on transparent ecosystem development
 ## Documentation
 ## Documentation
 
-- Whitepaper: USDG_Whitepaper.pdf
-- Tokenomics: TOKENOMICS.md
-- Roadmap: ROADMAP.md
-- Security Audits: AUDITS.md
+- [Whitepaper](./USDG_Whitepaper.pdf)
+- [Tokenomics](./TOKENOMICS.md)
+- [Roadmap](./ROADMAP.md)
+- [Security Audits](./AUDITS.md)
 ### Token Information
 
 Token Name: USDG Gold
