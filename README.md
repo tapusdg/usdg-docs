@@ -40,7 +40,11 @@ X:
 https://x.com/UsdMem
 
 ## Contact
+## Whitepaper
 
+Official Whitepaper:
+
+[Download Whitepaper] (./WHITEPAPER.pdf) 
 support@usdgdefi.com
 
 ## Disclaimer
