@@ -53,5 +53,17 @@ Official Whitepaper:
 support_tap@usdgdefi.com
 
 ## Disclaimer
+## Official Links
 
+Website:
+https://usdgdefi.com
+
+Telegram:
+https://t.me/usdggold
+
+X:
+https://x.com/UsdMem
+
+Support:
+support@usdgdefi.com
 Always verify contract addresses through official channels before interacting with USDG.
