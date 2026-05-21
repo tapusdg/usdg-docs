@@ -7,18 +7,17 @@ Official documentation repository for USDG Gold (USDG).
 USDG is a multi-chain digital asset focused on transparent ecosystem development, community growth and decentralized finance applications.
 
 ## Documentation
-## Documentation
 
 - [Whitepaper](USDG_Whitepaper.pdf)
 - [Tokenomics](./TOKENOMICS.md)
 - [Roadmap](./ROADMAP.md)
 - [Security Audits](./AUDITS.md)
+
 ### Token Information
 
 Token Name: USDG Gold
 
 Symbol: USDG
-
 Official Website:
 https://usdgdefi.com
 
@@ -45,12 +44,14 @@ X:
 https://x.com/UsdMem
 
 ## Contact
+
+support_tap@usdgdefi.com
+
 ## Whitepaper
 
 Official Whitepaper:
 
-[Download Whitepaper] (USDG_Whitepaper.pdf) 
-support_tap@usdgdefi.com
+[Download Whitepaper](./USDG_Whitepaper.pdf)
 
 ## Disclaimer
 
